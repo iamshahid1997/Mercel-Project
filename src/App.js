@@ -1,9 +1,7 @@
 import EngagementMessagesOverTime from "./components/EngagementMessagesOverTime";
 
 function App() {
-  return (
-    <EngagementMessagesOverTime />
-  );
+  return <EngagementMessagesOverTime />;
 }
 
 export default App;
